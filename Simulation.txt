@@ -1,4 +1,3 @@
-Полная инженерная модель системы моделирования световых взаимодействий
 COMPLETE ENGINEERING MODEL OF LIGHT INTERACTION SYSTEM
 Version 3.0 | Quantum Dynamics Module
 import os
